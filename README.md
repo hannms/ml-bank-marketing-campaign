@@ -63,4 +63,12 @@ It is recommended to:
 - Use the model especially when marketing resources are limited  
 - Periodically retrain the model to adapt to changing customer behavior  
 
-## 🗂️ Repository Structure
+## Repository Structure
+├── Bank_Marketing_Campaign.ipynb
+├── model.pkl
+└── README.md
+
+## How to Run
+1. Open Bank_Marketing_Campaign.ipynb
+2. Run all cells sequentially
+3. Load the trained model using pickle if needed
